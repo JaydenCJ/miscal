@@ -1,0 +1,200 @@
+{"confidence": 0.7, "expected": "refund", "id": "ticket-0001", "input": "I want my money back", "predicted": "refund"}
+{"confidence": "92%", "expected": "account", "id": "ticket-0002", "input": "how do I reset my password", "predicted": "billing"}
+{"confidence": "9/10", "expected": "refund", "id": "ticket-0003", "input": "cancel my subscription", "predicted": "shipping"}
+{"confidence": "almost certain", "expected": "shipping", "id": "ticket-0004", "input": "my order never arrived", "predicted": "account"}
+{"confidence": 0.7, "expected": "other", "id": "ticket-0005", "input": "my order never arrived", "predicted": "refund"}
+{"confidence": "90%", "expected": "shipping", "id": "ticket-0006", "input": "I want my money back", "predicted": "shipping"}
+{"confidence": 0.9, "expected": "shipping", "id": "ticket-0007", "input": "the tracking number does not work", "predicted": "shipping"}
+{"confidence": "98%", "expected": "shipping", "id": "ticket-0008", "input": "please close my account", "predicted": "shipping"}
+{"confidence": "6/10", "expected": "account", "id": "ticket-0009", "input": "how do I reset my password", "predicted": "refund"}
+{"confidence": "almost certain", "expected": "account", "id": "ticket-0010", "input": "cancel my subscription", "predicted": "account"}
+{"confidence": 0.95, "expected": "billing", "id": "ticket-0011", "input": "how do I reset my password", "predicted": "refund"}
+{"confidence": "95%", "expected": "billing", "id": "ticket-0012", "input": "cancel my subscription", "predicted": "billing"}
+{"confidence": 0.75, "expected": "other", "id": "ticket-0013", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": "95%", "expected": "shipping", "id": "ticket-0014", "input": "my order never arrived", "predicted": "refund"}
+{"confidence": "8/10", "expected": "other", "id": "ticket-0015", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": "almost certain", "expected": "account", "id": "ticket-0016", "input": "cancel my subscription", "predicted": "account"}
+{"confidence": 0.75, "expected": "account", "id": "ticket-0017", "input": "why did my card get declined", "predicted": "refund"}
+{"confidence": "90%", "expected": "refund", "id": "ticket-0018", "input": "why did my card get declined", "predicted": "other"}
+{"confidence": 0.75, "expected": "billing", "id": "ticket-0019", "input": "I was charged twice this month", "predicted": "billing"}
+{"confidence": "85%", "expected": "shipping", "id": "ticket-0020", "input": "where is my package", "predicted": "shipping"}
+{"confidence": "6/10", "expected": "account", "id": "ticket-0021", "input": "the invoice amount looks wrong", "predicted": "account"}
+{"confidence": "likely", "expected": "refund", "id": "ticket-0022", "input": "why did my card get declined", "predicted": "refund"}
+{"confidence": 0.95, "expected": "other", "id": "ticket-0023", "input": "why did my card get declined", "predicted": "other"}
+{"confidence": "60%", "expected": "shipping", "id": "ticket-0024", "input": "the tracking number does not work", "predicted": "account"}
+{"confidence": 0.6, "expected": "other", "id": "ticket-0025", "input": "the invoice amount looks wrong", "predicted": "other"}
+{"confidence": "90%", "expected": "shipping", "id": "ticket-0026", "input": "I returned the item two weeks ago", "predicted": "shipping"}
+{"confidence": "8/10", "expected": "shipping", "id": "ticket-0027", "input": "I want my money back", "predicted": "shipping"}
+{"confidence": "confident", "expected": "other", "id": "ticket-0028", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": 0.75, "expected": "refund", "id": "ticket-0029", "input": "cancel my subscription", "predicted": "refund"}
+{"confidence": "55%", "expected": "account", "id": "ticket-0030", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": 0.7, "expected": "refund", "id": "ticket-0031", "input": "why did my card get declined", "predicted": "shipping"}
+{"confidence": "70%", "expected": "shipping", "id": "ticket-0032", "input": "how do I reset my password", "predicted": "other"}
+{"confidence": "6/10", "expected": "account", "id": "ticket-0033", "input": "the invoice amount looks wrong", "predicted": "billing"}
+{"confidence": "confident", "expected": "shipping", "id": "ticket-0034", "input": "I was charged twice this month", "predicted": "shipping"}
+{"confidence": 0.9, "expected": "billing", "id": "ticket-0035", "input": "why did my card get declined", "predicted": "billing"}
+{"confidence": "95%", "expected": "other", "id": "ticket-0036", "input": "I returned the item two weeks ago", "predicted": "shipping"}
+{"confidence": 0.85, "expected": "refund", "id": "ticket-0037", "input": "why did my card get declined", "predicted": "refund"}
+{"confidence": "60%", "expected": "account", "id": "ticket-0038", "input": "why did my card get declined", "predicted": "billing"}
+{"confidence": "6/10", "expected": "other", "id": "ticket-0039", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": "almost certain", "expected": "refund", "id": "ticket-0040", "input": "my order never arrived", "predicted": "refund"}
+{"confidence": 0.92, "expected": "refund", "id": "ticket-0041", "input": "my order never arrived", "predicted": "shipping"}
+{"confidence": "75%", "expected": "shipping", "id": "ticket-0042", "input": "cancel my subscription", "predicted": "shipping"}
+{"confidence": 0.9, "expected": "refund", "id": "ticket-0043", "input": "my order never arrived", "predicted": "shipping"}
+{"confidence": "98%", "expected": "shipping", "id": "ticket-0044", "input": "cancel my subscription", "predicted": "shipping"}
+{"confidence": "8/10", "expected": "account", "id": "ticket-0045", "input": "cancel my subscription", "predicted": "refund"}
+{"confidence": "almost certain", "expected": "account", "id": "ticket-0046", "input": "I want my money back", "predicted": "other"}
+{"confidence": 0.9, "expected": "account", "id": "ticket-0047", "input": "the tracking number does not work", "predicted": "account"}
+{"confidence": "98%", "expected": "other", "id": "ticket-0048", "input": "the invoice amount looks wrong", "predicted": "refund"}
+{"confidence": 0.85, "expected": "other", "id": "ticket-0049", "input": "can I change my delivery address", "predicted": "other"}
+{"confidence": "95%", "expected": "billing", "id": "ticket-0050", "input": "why did my card get declined", "predicted": "billing"}
+{"confidence": "8/10", "expected": "other", "id": "ticket-0051", "input": "how do I reset my password", "predicted": "account"}
+{"confidence": "almost certain", "expected": "other", "id": "ticket-0052", "input": "cancel my subscription", "predicted": "other"}
+{"confidence": 0.75, "expected": "account", "id": "ticket-0053", "input": "cancel my subscription", "predicted": "account"}
+{"confidence": "60%", "expected": "shipping", "id": "ticket-0054", "input": "where is my package", "predicted": "shipping"}
+{"confidence": 0.9, "expected": "other", "id": "ticket-0055", "input": "my order never arrived", "predicted": "other"}
+{"confidence": "80%", "expected": "refund", "id": "ticket-0056", "input": "can I change my delivery address", "predicted": "refund"}
+{"confidence": "10/10", "expected": "account", "id": "ticket-0057", "input": "cancel my subscription", "predicted": "account"}
+{"confidence": "confident", "expected": "refund", "id": "ticket-0058", "input": "cancel my subscription", "predicted": "refund"}
+{"confidence": 0.95, "expected": "billing", "id": "ticket-0059", "input": "I want my money back", "predicted": "billing"}
+{"confidence": "75%", "expected": "shipping", "id": "ticket-0060", "input": "cancel my subscription", "predicted": "shipping"}
+{"confidence": 0.92, "expected": "shipping", "id": "ticket-0061", "input": "please close my account", "predicted": "shipping"}
+{"confidence": "70%", "expected": "account", "id": "ticket-0062", "input": "please close my account", "predicted": "account"}
+{"confidence": "6/10", "expected": "other", "id": "ticket-0063", "input": "I want my money back", "predicted": "shipping"}
+{"confidence": "very likely", "expected": "refund", "id": "ticket-0064", "input": "where is my package", "predicted": "refund"}
+{"confidence": 0.98, "expected": "shipping", "id": "ticket-0065", "input": "I want my money back", "predicted": "shipping"}
+{"confidence": "60%", "expected": "shipping", "id": "ticket-0066", "input": "my order never arrived", "predicted": "shipping"}
+{"confidence": 0.8, "expected": "shipping", "id": "ticket-0067", "input": "my order never arrived", "predicted": "other"}
+{"confidence": "85%", "expected": "shipping", "id": "ticket-0068", "input": "I was charged twice this month", "predicted": "shipping"}
+{"confidence": "9/10", "expected": "shipping", "id": "ticket-0069", "input": "how do I reset my password", "predicted": "shipping"}
+{"confidence": "likely", "expected": "account", "id": "ticket-0070", "input": "the tracking number does not work", "predicted": "account"}
+{"confidence": 0.7, "expected": "other", "id": "ticket-0071", "input": "why did my card get declined", "predicted": "other"}
+{"confidence": "55%", "expected": "account", "id": "ticket-0072", "input": "how do I reset my password", "predicted": "refund"}
+{"confidence": 0.9, "expected": "shipping", "id": "ticket-0073", "input": "I want my money back", "predicted": "shipping"}
+{"confidence": "80%", "expected": "shipping", "id": "ticket-0074", "input": "can I change my delivery address", "predicted": "shipping"}
+{"confidence": "8/10", "expected": "billing", "id": "ticket-0075", "input": "please close my account", "predicted": "billing"}
+{"confidence": "likely", "expected": "account", "id": "ticket-0076", "input": "I returned the item two weeks ago", "predicted": "account"}
+{"confidence": 0.9, "expected": "billing", "id": "ticket-0077", "input": "I was charged twice this month", "predicted": "billing"}
+{"confidence": "75%", "expected": "shipping", "id": "ticket-0078", "input": "how do I reset my password", "predicted": "shipping"}
+{"confidence": 0.8, "expected": "refund", "id": "ticket-0079", "input": "my order never arrived", "predicted": "billing"}
+{"confidence": "55%", "expected": "refund", "id": "ticket-0080", "input": "the invoice amount looks wrong", "predicted": "shipping"}
+{"confidence": "9/10", "expected": "refund", "id": "ticket-0081", "input": "the invoice amount looks wrong", "predicted": "other"}
+{"confidence": "confident", "expected": "account", "id": "ticket-0082", "input": "the tracking number does not work", "predicted": "account"}
+{"confidence": 0.98, "expected": "account", "id": "ticket-0083", "input": "how do I reset my password", "predicted": "shipping"}
+{"confidence": "85%", "expected": "billing", "id": "ticket-0084", "input": "can I change my delivery address", "predicted": "billing"}
+{"confidence": 0.8, "expected": "other", "id": "ticket-0085", "input": "the tracking number does not work", "predicted": "billing"}
+{"confidence": "92%", "expected": "shipping", "id": "ticket-0086", "input": "my order never arrived", "predicted": "shipping"}
+{"confidence": "10/10", "expected": "refund", "id": "ticket-0087", "input": "please close my account", "predicted": "refund"}
+{"confidence": "almost certain", "expected": "other", "id": "ticket-0088", "input": "the invoice amount looks wrong", "predicted": "other"}
+{"confidence": 0.7, "expected": "billing", "id": "ticket-0089", "input": "I was charged twice this month", "predicted": "billing"}
+{"confidence": "95%", "expected": "billing", "id": "ticket-0090", "input": "I want my money back", "predicted": "billing"}
+{"confidence": 0.92, "expected": "account", "id": "ticket-0091", "input": "where is my package", "predicted": "account"}
+{"confidence": "92%", "expected": "refund", "id": "ticket-0092", "input": "can I change my delivery address", "predicted": "refund"}
+{"confidence": "9/10", "expected": "refund", "id": "ticket-0093", "input": "the invoice amount looks wrong", "predicted": "refund"}
+{"confidence": "almost certain", "expected": "shipping", "id": "ticket-0094", "input": "the invoice amount looks wrong", "predicted": "shipping"}
+{"confidence": 0.8, "expected": "account", "id": "ticket-0095", "input": "I was charged twice this month", "predicted": "account"}
+{"confidence": "95%", "expected": "shipping", "id": "ticket-0096", "input": "where is my package", "predicted": "shipping"}
+{"confidence": 0.7, "expected": "account", "id": "ticket-0097", "input": "the invoice amount looks wrong", "predicted": "account"}
+{"confidence": "60%", "expected": "billing", "id": "ticket-0098", "input": "where is my package", "predicted": "billing"}
+{"confidence": "8/10", "expected": "account", "id": "ticket-0099", "input": "please close my account", "predicted": "account"}
+{"confidence": "confident", "expected": "other", "id": "ticket-0100", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": 0.95, "expected": "refund", "id": "ticket-0101", "input": "why did my card get declined", "predicted": "refund"}
+{"confidence": "80%", "expected": "shipping", "id": "ticket-0102", "input": "please close my account", "predicted": "account"}
+{"confidence": 0.75, "expected": "billing", "id": "ticket-0103", "input": "I want my money back", "predicted": "refund"}
+{"confidence": "55%", "expected": "other", "id": "ticket-0104", "input": "cancel my subscription", "predicted": "other"}
+{"confidence": "6/10", "expected": "shipping", "id": "ticket-0105", "input": "where is my package", "predicted": "shipping"}
+{"confidence": "confident", "expected": "other", "id": "ticket-0106", "input": "the tracking number does not work", "predicted": "other"}
+{"confidence": 0.98, "expected": "billing", "id": "ticket-0107", "input": "please close my account", "predicted": "billing"}
+{"confidence": "92%", "expected": "billing", "id": "ticket-0108", "input": "can I change my delivery address", "predicted": "billing"}
+{"confidence": 0.85, "expected": "other", "id": "ticket-0109", "input": "I want my money back", "predicted": "other"}
+{"confidence": "70%", "expected": "shipping", "id": "ticket-0110", "input": "can I change my delivery address", "predicted": "billing"}
+{"confidence": "8/10", "expected": "other", "id": "ticket-0111", "input": "I was charged twice this month", "predicted": "other"}
+{"confidence": "very likely", "expected": "billing", "id": "ticket-0112", "input": "can I change my delivery address", "predicted": "billing"}
+{"confidence": 0.6, "expected": "account", "id": "ticket-0113", "input": "please close my account", "predicted": "account"}
+{"confidence": "70%", "expected": "shipping", "id": "ticket-0114", "input": "the tracking number does not work", "predicted": "shipping"}
+{"confidence": 0.8, "expected": "billing", "id": "ticket-0115", "input": "my order never arrived", "predicted": "billing"}
+{"confidence": "80%", "expected": "other", "id": "ticket-0116", "input": "can I change my delivery address", "predicted": "other"}
+{"confidence": "10/10", "expected": "refund", "id": "ticket-0117", "input": "how do I reset my password", "predicted": "other"}
+{"confidence": "very likely", "expected": "billing", "id": "ticket-0118", "input": "please close my account", "predicted": "billing"}
+{"confidence": 0.9, "expected": "account", "id": "ticket-0119", "input": "why did my card get declined", "predicted": "account"}
+{"confidence": "92%", "expected": "other", "id": "ticket-0120", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": 0.8, "expected": "billing", "id": "ticket-0121", "input": "I returned the item two weeks ago", "predicted": "billing"}
+{"confidence": "95%", "expected": "account", "id": "ticket-0122", "input": "my order never arrived", "predicted": "account"}
+{"confidence": "6/10", "expected": "billing", "id": "ticket-0123", "input": "the tracking number does not work", "predicted": "billing"}
+{"confidence": "maybe", "expected": "account", "id": "ticket-0124", "input": "I want my money back", "predicted": "refund"}
+{"confidence": 0.55, "expected": "account", "id": "ticket-0125", "input": "please close my account", "predicted": "other"}
+{"confidence": "85%", "expected": "refund", "id": "ticket-0126", "input": "please close my account", "predicted": "billing"}
+{"confidence": 0.9, "expected": "refund", "id": "ticket-0127", "input": "can I change my delivery address", "predicted": "refund"}
+{"confidence": "98%", "expected": "account", "id": "ticket-0128", "input": "I was charged twice this month", "predicted": "account"}
+{"confidence": "8/10", "expected": "billing", "id": "ticket-0129", "input": "where is my package", "predicted": "billing"}
+{"confidence": "almost certain", "expected": "billing", "id": "ticket-0130", "input": "can I change my delivery address", "predicted": "refund"}
+{"confidence": 0.92, "expected": "billing", "id": "ticket-0131", "input": "my order never arrived", "predicted": "billing"}
+{"confidence": "80%", "expected": "account", "id": "ticket-0132", "input": "my order never arrived", "predicted": "account"}
+{"confidence": 0.7, "expected": "refund", "id": "ticket-0133", "input": "the tracking number does not work", "predicted": "account"}
+{"confidence": "98%", "expected": "other", "id": "ticket-0134", "input": "I was charged twice this month", "predicted": "other"}
+{"confidence": "10/10", "expected": "refund", "id": "ticket-0135", "input": "why did my card get declined", "predicted": "refund"}
+{"confidence": "almost certain", "expected": "shipping", "id": "ticket-0136", "input": "why did my card get declined", "predicted": "shipping"}
+{"confidence": 0.85, "expected": "account", "id": "ticket-0137", "input": "my order never arrived", "predicted": "refund"}
+{"confidence": "70%", "expected": "other", "id": "ticket-0138", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": 0.75, "expected": "billing", "id": "ticket-0139", "input": "my order never arrived", "predicted": "billing"}
+{"confidence": "70%", "expected": "refund", "id": "ticket-0140", "input": "the tracking number does not work", "predicted": "shipping"}
+{"confidence": "6/10", "expected": "refund", "id": "ticket-0141", "input": "can I change my delivery address", "predicted": "refund"}
+{"confidence": "medium", "expected": "account", "id": "ticket-0142", "input": "cancel my subscription", "predicted": "refund"}
+{"confidence": 0.98, "expected": "shipping", "id": "ticket-0143", "input": "the invoice amount looks wrong", "predicted": "shipping"}
+{"confidence": "98%", "expected": "shipping", "id": "ticket-0144", "input": "the tracking number does not work", "predicted": "account"}
+{"confidence": 0.95, "expected": "other", "id": "ticket-0145", "input": "I was charged twice this month", "predicted": "other"}
+{"confidence": "95%", "expected": "billing", "id": "ticket-0146", "input": "can I change my delivery address", "predicted": "other"}
+{"confidence": "10/10", "expected": "account", "id": "ticket-0147", "input": "I want my money back", "predicted": "billing"}
+{"confidence": "almost certain", "expected": "shipping", "id": "ticket-0148", "input": "I returned the item two weeks ago", "predicted": "shipping"}
+{"confidence": 0.8, "expected": "refund", "id": "ticket-0149", "input": "the invoice amount looks wrong", "predicted": "refund"}
+{"confidence": "80%", "expected": "other", "id": "ticket-0150", "input": "cancel my subscription", "predicted": "other"}
+{"confidence": 0.95, "expected": "billing", "id": "ticket-0151", "input": "I want my money back", "predicted": "billing"}
+{"confidence": "85%", "expected": "other", "id": "ticket-0152", "input": "cancel my subscription", "predicted": "billing"}
+{"confidence": "8/10", "expected": "refund", "id": "ticket-0153", "input": "the tracking number does not work", "predicted": "billing"}
+{"confidence": "almost certain", "expected": "refund", "id": "ticket-0154", "input": "I want my money back", "predicted": "other"}
+{"confidence": 0.8, "expected": "other", "id": "ticket-0155", "input": "how do I reset my password", "predicted": "account"}
+{"confidence": "75%", "expected": "shipping", "id": "ticket-0156", "input": "I was charged twice this month", "predicted": "other"}
+{"confidence": 0.85, "expected": "account", "id": "ticket-0157", "input": "why did my card get declined", "predicted": "account"}
+{"confidence": "55%", "expected": "refund", "id": "ticket-0158", "input": "cancel my subscription", "predicted": "refund"}
+{"confidence": "8/10", "expected": "shipping", "id": "ticket-0159", "input": "why did my card get declined", "predicted": "shipping"}
+{"confidence": "confident", "expected": "other", "id": "ticket-0160", "input": "cancel my subscription", "predicted": "billing"}
+{"confidence": 0.6, "expected": "billing", "id": "ticket-0161", "input": "please close my account", "predicted": "billing"}
+{"confidence": "75%", "expected": "account", "id": "ticket-0162", "input": "how do I reset my password", "predicted": "account"}
+{"confidence": 0.6, "expected": "refund", "id": "ticket-0163", "input": "I was charged twice this month", "predicted": "shipping"}
+{"confidence": "70%", "expected": "shipping", "id": "ticket-0164", "input": "how do I reset my password", "predicted": "shipping"}
+{"confidence": "6/10", "expected": "shipping", "id": "ticket-0165", "input": "the invoice amount looks wrong", "predicted": "shipping"}
+{"confidence": "almost certain", "expected": "shipping", "id": "ticket-0166", "input": "the invoice amount looks wrong", "predicted": "account"}
+{"confidence": 0.92, "expected": "other", "id": "ticket-0167", "input": "I returned the item two weeks ago", "predicted": "other"}
+{"confidence": "92%", "expected": "refund", "id": "ticket-0168", "input": "why did my card get declined", "predicted": "refund"}
+{"confidence": 0.8, "expected": "billing", "id": "ticket-0169", "input": "cancel my subscription", "predicted": "billing"}
+{"confidence": "92%", "expected": "other", "id": "ticket-0170", "input": "can I change my delivery address", "predicted": "shipping"}
+{"confidence": "6/10", "expected": "billing", "id": "ticket-0171", "input": "can I change my delivery address", "predicted": "billing"}
+{"confidence": "medium", "expected": "billing", "id": "ticket-0172", "input": "please close my account", "predicted": "refund"}
+{"confidence": 0.98, "expected": "refund", "id": "ticket-0173", "input": "the tracking number does not work", "predicted": "shipping"}
+{"confidence": "55%", "expected": "billing", "id": "ticket-0174", "input": "my order never arrived", "predicted": "refund"}
+{"confidence": 0.55, "expected": "billing", "id": "ticket-0175", "input": "the tracking number does not work", "predicted": "shipping"}
+{"confidence": "98%", "expected": "refund", "id": "ticket-0176", "input": "the tracking number does not work", "predicted": "billing"}
+{"confidence": "8/10", "expected": "other", "id": "ticket-0177", "input": "I was charged twice this month", "predicted": "other"}
+{"confidence": "almost certain", "expected": "other", "id": "ticket-0178", "input": "please close my account", "predicted": "shipping"}
+{"confidence": 0.9, "expected": "other", "id": "ticket-0179", "input": "I was charged twice this month", "predicted": "other"}
+{"confidence": "90%", "expected": "other", "id": "ticket-0180", "input": "I was charged twice this month", "predicted": "other"}
+{"confidence": 0.92, "expected": "other", "id": "ticket-0181", "input": "can I change my delivery address", "predicted": "account"}
+{"confidence": "75%", "expected": "billing", "id": "ticket-0182", "input": "the invoice amount looks wrong", "predicted": "account"}
+{"confidence": "6/10", "expected": "billing", "id": "ticket-0183", "input": "please close my account", "predicted": "billing"}
+{"confidence": "medium", "expected": "shipping", "id": "ticket-0184", "input": "can I change my delivery address", "predicted": "account"}
+{"confidence": 0.98, "expected": "shipping", "id": "ticket-0185", "input": "I want my money back", "predicted": "shipping"}
+{"confidence": "98%", "expected": "refund", "id": "ticket-0186", "input": "my order never arrived", "predicted": "shipping"}
+{"confidence": 0.9, "expected": "account", "id": "ticket-0187", "input": "where is my package", "predicted": "account"}
+{"confidence": "60%", "expected": "shipping", "id": "ticket-0188", "input": "why did my card get declined", "predicted": "shipping"}
+{"confidence": "10/10", "expected": "billing", "id": "ticket-0189", "input": "why did my card get declined", "predicted": "billing"}
+{"confidence": "maybe", "expected": "other", "id": "ticket-0190", "input": "how do I reset my password", "predicted": "other"}
+{"confidence": 0.6, "expected": "billing", "id": "ticket-0191", "input": "the invoice amount looks wrong", "predicted": "account"}
+{"confidence": "85%", "expected": "refund", "id": "ticket-0192", "input": "cancel my subscription", "predicted": "refund"}
+{"confidence": 0.75, "expected": "shipping", "id": "ticket-0193", "input": "can I change my delivery address", "predicted": "shipping"}
+{"confidence": "92%", "expected": "refund", "id": "ticket-0194", "input": "can I change my delivery address", "predicted": "refund"}
+{"confidence": "6/10", "expected": "refund", "id": "ticket-0195", "input": "I want my money back", "predicted": "shipping"}
+{"confidence": "confident", "expected": "shipping", "id": "ticket-0196", "input": "cancel my subscription", "predicted": "shipping"}
+{"confidence": 0.6, "expected": "billing", "id": "ticket-0197", "input": "I returned the item two weeks ago", "predicted": "billing"}
+{"confidence": "70%", "expected": "refund", "id": "ticket-0198", "input": "I returned the item two weeks ago", "predicted": "shipping"}
+{"confidence": 0.6, "expected": "refund", "id": "ticket-0199", "input": "I was charged twice this month", "predicted": "refund"}
+{"confidence": "55%", "expected": "other", "id": "ticket-0200", "input": "the tracking number does not work", "predicted": "other"}
